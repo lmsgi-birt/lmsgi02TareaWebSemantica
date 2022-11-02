@@ -1,9 +1,9 @@
 html{background:white;color:black}
 body{font:normal medium 'Gill Sans','Gill Sans MT','Goudy Bookletter 1911','Linux Libertine O','Liberation Serif',Candara,serif;padding:0;margin:0 auto;width:40em;line-height:1.75;word-spacing:0.1em}
 a{background:transparent;text-decoration:none;border-bottom:1px dotted}
-a:hover{border-bottom:1px solid}
 a:link{color:#1b67c9}
 a:visited{color:darkorchid}
+a:hover{border-bottom:1px solid}
 h1 a,h2 a,h3 a{color:inherit !important}
 h2,h3,p{margin:1.75em 0}
 h1,h2,h3{font-size:medium}
